@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+  </head>
+  <div>
+    <body class= "body">
+      <div class= "name">
+        <H1> Savridin Turdiyev </H1>
+      </div>
+      <div class= "contact">
+        <h6> 305-9200090 </h6>
+        <p> 1621 N. Mcvicker ave </p>
+        <p> Chicago, IL, 60639 </p>
+        <p> t.savridin@yahoo.com </p>     
+      </div>
+      <div class= "education">
+        <h3> Education</h3>
+      </div>
+      <div class="edu_list">
+        <ol>
+          <h5><li>  Turan University </li> </h5>
+          <p> - 2005-2010
+          <p> - Information systems </p>
+          <h5><li>  International Academy of Business </li> </h5>
+          <p> - 2014-2016
+          <p> - Marketing </p>
+      </div>
+        <div class= "experience">
+        <h3> Work experience</h3>
+      </div>
+      <div class="work_list">
+        <ol>
+          <h5><li>  Atlas distribution </li> </h5>
+          <p> - 2006-2010 </p>
+          <p> - DB Admin </p>
+          <h5><li> Air Astana </li> </h5>
+          <p> - 2010-2019 </p>   
+          <p> - Flight attendat </p>
+      </div>
+      <div class= "footer"
+           <h6> Short version of resume </h6>
+      </div>  
+       
+    
+    </body>
+  </div>
+</html>
