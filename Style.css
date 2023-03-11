@@ -1,0 +1,30 @@
+body {
+  background-color: gray;
+}
+.name {
+  border:1px solid black;
+  padding-left: 200px;
+  background-color: black;  
+}
+h1 {
+  color: white;
+  font-size: 30;
+  font-family: Arial, Helvetica, san-serif;
+}
+.education {
+  text-align:center; 
+}
+.edu_list {
+  background-color: white;
+}
+
+.footer {
+  border:1px solid black;
+  background-color: white;
+  text-align: center;
+}
+
+}
+.experience {
+  text-align: center;
+}
