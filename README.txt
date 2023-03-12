@@ -1,3 +1,3 @@
 # savridin.github.io
-Resume.html
+Resume
 
